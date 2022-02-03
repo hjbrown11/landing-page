@@ -1,0 +1,18 @@
+.footer {
+  background-color: #2C2B2B;
+  height: 220px;
+  text-align: center;
+  width: 100%;
+  margin-top: 25px;
+  padding-top: 50px;
+}
+
+.fab {
+  color: #1DDD88;
+  font-size: 30px;
+  padding: 5px;
+}
+
+.footer p {
+  color: rgb(119, 119, 119);
+}

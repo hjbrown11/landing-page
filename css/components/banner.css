@@ -1,0 +1,22 @@
+.banner {
+  display: flex;
+  height: 590px;
+  align-items: center;
+  padding: 0 270px;
+  width: 100%;
+}
+
+.main-title {
+  color: white;
+  font-size: 32px;
+}
+
+.subtitle {
+  color: rgb(179, 179, 179);
+  font-size: 20px;
+  margin-bottom: 15px;
+}
+
+.inner-components {
+  margin: 0px;
+}
